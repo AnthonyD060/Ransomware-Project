@@ -11,3 +11,10 @@ This code scrapes various news sites for information related to ransomware attac
 My code is listed in the Ransomware-Project/Ransomware Project/ransom_scrape/ransom_scrape/spiders/ Directory.
 
 the two ransom_scrape files are for scrappy configurations. 
+
+
+Used libraries and Frameworks:
+Pandas,
+Beautiful Soup,
+Scrapy,
+MatPlotLib
